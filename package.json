@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lysaker-git/managing-secrets-noroff/issues"
   },
-  "homepage": "https://github.com/Lysaker-git/managing-secrets-noroff#readme"
+  "homepage": "https://github.com/Lysaker-git/managing-secrets-noroff#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
